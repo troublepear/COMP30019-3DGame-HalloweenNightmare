@@ -2,44 +2,11 @@
 
 # COMP30019 – Graphics and Interaction
 
-## Teamwork plan/summary
-
-<!-- [[StartTeamworkPlan]] PLEASE LEAVE THIS LINE UNTOUCHED -->
-
-<!-- Fill this section by Milestone 1 (see specification for details) -->
-
-### Gameplay
-
-- **Gameplay related scripts:** Min Shen
-- **NPC logic:** Min Shen
-- **Bug testing:** Min Shen, Zizhou Zhang
-
-### Graphics and Interfaces
-
-- **Camera orientation:** Min Shen
-- **Position and motion adjustments:** Min Shen
-- **Scene deployment:** Suijuan Wang, Yurun Wang
-- **Topography generation:** Min Shen
-- **Audios:** Yurun Wang, Zizhou Zhang
-
-### Shaders and Special Effects
-
-- **Shader:** Zizhou Zhang
-- **Particle system:** Min Shen
-
-### Evaluation, Report and Project Organisation
-
-- **Draft and complete the report:** Suijuan Wang
-- **Evaluation set up:** Suijuan Wang
-- **Interview:** Suijuan Wang
-- **Record and summarise the interview feedback:** Suijuan Wang
-- **Tasks management:** Min Shen
-
 <!-- [[EndTeamworkPlan]] PLEASE LEAVE THIS LINE UNTOUCHED -->
 
 ## Final report
 
-**Halloween Nightmare** is a first-person shooter game of a semester-long project for the subject Graphics and Interaction(COMP30019).
+**Halloween Nightmare** is a first-person shooter game of a semester-long project for the subject Graphics and Interaction(COMP30019). This is completed by a team of four with Unity. 
 
 This subject introduces the technologies of computer graphics and human-computer interaction along with the biological, psychological and social aspects of human perception and action that inform the application of those technologies. 
 
